@@ -28,7 +28,6 @@ export default function Home() {
 					<p>undergraduate student at</p>
 					<p>stevens institute of technology</p>
 					<p>bs computer science, mathematics</p>
-					<p>quant analyst @ stevens student managed investment fund</p>
 				</div>
 
 				<div className="flex justify-center w-full space-x-6 text-2xl text-gray-400">
