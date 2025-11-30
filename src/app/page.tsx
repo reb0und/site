@@ -1,7 +1,5 @@
 import {
 	FaGithub,
-	FaLinkedin,
-	FaMedium,
 	FaFileAlt,
 	FaEnvelope,
 } from "react-icons/fa";
@@ -40,23 +38,7 @@ export default function Home() {
 						<FaGithub />
 					</a>
 					<a
-						href="https://www.linkedin.com/in/dominic-magats-6bb914230/"
-						target="_blank"
-						rel="noopener noreferrer"
-						className="hover:text-white transition-colors"
-					>
-						<FaLinkedin />
-					</a>
-					<a
-						href="https://medium.com/@reb0und"
-						target="_blank"
-						rel="noopener noreferrer"
-						className="hover:text-white transition-colors"
-					>
-						<FaMedium />
-					</a>
-					<a
-						href="/Dominic_Magats_Resume.pdf"
+						href="/DM_Resume_E.pdf"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="hover:text-white transition-colors"
